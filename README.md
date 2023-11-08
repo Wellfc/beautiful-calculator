@@ -118,7 +118,7 @@ The JavaScript code defines the behavior of the page. It includes the following 
 
 * `onEvent()`: This function attaches an event listener to an element.
 * `select()`: This function returns the first element that matches a given selector.
-* `selectAll()`: This function performs the addition operation.
+* `selectAll()`: This function attaches an event listener to an array of elements.
 
 
 It does the following:
